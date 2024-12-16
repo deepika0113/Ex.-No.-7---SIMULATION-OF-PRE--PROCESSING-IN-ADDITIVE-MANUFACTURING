@@ -49,8 +49,8 @@
 ![Screenshot 2024-12-04 103256](https://github.com/user-attachments/assets/e89a2517-2ec2-4a9a-aeea-71561353f16c)
 
 
-### Name: Vinolia alaina
-### Register Number: 24003757
+### Name: DEEPIKA.R
+### Register Number:24900617
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
