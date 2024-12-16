@@ -1,5 +1,5 @@
-# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 16-12-24
+# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,16 +39,18 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![step 1](https://github.com/user-attachments/assets/29c43ed3-378d-47cf-91c4-8104a0844772)
+![step 2](https://github.com/user-attachments/assets/d9790b3e-2805-427f-8f41-f8c9b5671157)
+![step 3](https://github.com/user-attachments/assets/e3c7b661-9925-47ce-8dbb-da7749e8f378)
+
 
 ## Output:
 
-### Name:DEEPIKA.R
-### Register Number: 24900617
-![image](https://github.com/user-attachments/assets/522ecede-10c5-4e2d-adf8-4b7b6cf20332)
+![Screenshot 2024-12-04 103256](https://github.com/user-attachments/assets/e89a2517-2ec2-4a9a-aeea-71561353f16c)
 
+
+### Name: Vinolia alaina
+### Register Number: 24003757
 
 ## Result: 
-### Thus the simulation on the Preprocessing in additive manufacturing is completed successfully.
+### Thus the simulation on the Preprocessing in additive manufacturing is completed.
